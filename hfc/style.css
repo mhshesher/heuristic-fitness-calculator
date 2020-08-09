@@ -6,7 +6,7 @@
 body{
 	background-image: url("image/bg5.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100%;
 	background-attachment: fixed;
 }
 
@@ -81,7 +81,7 @@ h2{
 	border-radius: 15px;
 	font-weight: bold;
 	color: #f8cb68;
-	font-size: 0.95rem;
+	font-size: 0.85rem;
 }
 
 #op{

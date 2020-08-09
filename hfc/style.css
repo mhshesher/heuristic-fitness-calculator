@@ -3,16 +3,6 @@
 /*#43fbec*/
 /*#dde3e8*/
 
-@media screen and (max-width: 1024px){
-	.cnt{
-		display: grid;
-		text-align: center;
-	}
-	.form{
-		width: 80vw;
-	}
-}
-
 body{
 	background-image: url("image/bg5.jpg");
 	background-repeat: no-repeat;
@@ -97,3 +87,16 @@ h2{
 #op{
 	margin-top: 0.5rem;
 }
+
+@media screen and (max-width: 500px){
+	.cnt{
+		display: grid;
+		text-align: center;
+	}
+	.form{
+		width: 70vw;
+		margin-left: 12vw;
+		margin-right: 12vw;
+	}
+}
+

@@ -89,6 +89,9 @@ h2{
 }
 
 @media screen and (max-width: 800px){
+	body{
+		background-image: url("image/bg6.jpg");
+	}
 	.cnt{
 		display: grid;
 		text-align: center;
